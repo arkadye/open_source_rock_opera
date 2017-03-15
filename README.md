@@ -3,7 +3,7 @@ In which I attempt to create an open-sourced rock-opera.
 
 Github should only be used for text versions of things: lyrics, structure, notes, etc...
 
-##TASKS (in no particular order):
+## TASKS (in no particular order):
 
 - Develop plot and lyrics
 
